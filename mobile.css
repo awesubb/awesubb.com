@@ -1,0 +1,130 @@
+.main{
+width:100%;
+
+
+
+}
+
+ul
+{
+margin-left:20px;
+
+
+}
+
+
+
+li
+{
+
+list-style:none;
+display:inline-block;
+margin-top:10px;
+
+}
+
+a
+{
+margin:10px;
+text-decoration:none;
+font-size:50px;
+padding:10px 30px;
+color:white;
+border-right:solid 2px  white;
+padding:2px 20px;
+text-align:center;
+
+}
+
+body{
+background-image:url(live.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+
+}
+
+.hh img
+{
+
+width:30%;
+margin-left:33%;
+
+margin-top:5%;
+animation:fly 25s infinite;
+animation-timing-function:linear;
+
+
+}
+
+
+.info p
+{
+font-size:70px;
+color:#B07C4F;
+text-align:center;
+margin-top:30%;
+
+}
+
+
+.para p
+{
+font-size:30px;
+color:white;
+text-align:center;
+background-color:rgba(0,0,0,0.50);
+padding:20px 0px;
+font-weight:200;
+font-family:arial;
+}
+
+.work a
+{
+font-size:50px;
+color:white;
+text-align:center;
+text-decoration:none;
+border:none;
+line-height:100px;
+padding:50px;
+}
+
+
+.work
+{
+width:60%;
+margin:0 auto;
+border:solid 2px white;
+border-radius:0px 40px 0px 40px;
+margin-top:10%;
+background-color:rgba(0,0,0,0.5);
+height:100px;
+}
+
+
+@keyframes fly
+{
+from
+{transform:rotateY(0deg);}
+
+
+to
+{transform:rotateY(3600deg);}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

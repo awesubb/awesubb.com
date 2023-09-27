@@ -1,0 +1,50 @@
+input{height:10%;
+width: 90%;
+padding: 20px;
+margin-left: 40px;
+border: solid white 5px;
+border-width: 0px 0px 5px 0px ;
+background: transparent;
+font-size:60px ;
+font-family: Arial, Helvetica, sans-serif;
+color:white;}
+
+
+::placeholder{font-size: 60px;
+color: white;}
+
+div+div {margin-top:100px;}
+
+
+form{margin-top: 200px;
+border: solid white;
+border-radius: 40px;
+backdrop-filter: blur(20px);}
+
+
+#span{font-size: 60px ; border: solid white;
+border-radius: 20px; margin: 50px 20PX 20px 150px; width:70%;
+text-align: center; margin-right:100px;
+height: 120px;
+}
+
+h1
+{
+color:white;
+}
+
+body{background-image: url(1308322.jpeg);}
+
+
+a
+{
+color:white;
+}
+
+
+p{font-size:50px; text-align: center;
+color:white;}
+
+
+
+input[type=checkbox]{box-sizing: 20px;}
